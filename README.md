@@ -1,7 +1,7 @@
 🥥 Coco Verde Fresquinho – Landing Page de Vendas
 
 Página de vendas moderna e responsiva de Coco Verde Fresquinho, feita com Next.js + Tailwind CSS. Ideal para pequenos empreendedores venderem cocos verdes online com estilo e praticidade.
-🌟 Funcionalidades
+ Funcionalidades
 
 Layout moderno e responsivo para desktop e mobile
 
@@ -17,7 +17,7 @@ Código limpo, fácil de personalizar e expandir
 Preview da Página
 
 A página se adapta perfeitamente a qualquer dispositivo, mantendo o design moderno e intuitivo.
-⚡ Instalação Local
+ Instalação Local
 
 Clone o repositório:git clone https://github.com/SEU-USUARIO/coco-verde-fresquinho.git
 
