@@ -1,0 +1,11 @@
+/pages
+   index.js
+   about.js
+/components
+   Layout.js
+   Header.js
+/public
+   (imagens, favicon etc)
+/styles
+   globals.css
+package.json
