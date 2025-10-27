@@ -1,0 +1,19 @@
+{
+  "name": "ice-coco",
+  "version": "1.0.0",
+  "description": "Ice Coco 🥥 — Coco verde geladinho e natural direto da fonte. Site de vendas refrescante feito com Next.js.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["coco verde", "geladinho", "vendas", "nextjs"],
+  "author": "Emshtml",
+  "license": "MIT",
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
